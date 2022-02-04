@@ -19,10 +19,10 @@
   ##
   
   <div style="display: inline_block"></br>
-    <a href="https://www.linkedin.com/in/carlos-andre-albanus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/carlos-andre-albanus"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"                 target="_blank"></a>
   
-    <a href="https://www.facebook.com/carlosandre.pereiraalbanus.9/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+    <a href="https://www.facebook.com/carlosandre.pereiraalbanus.9/"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"           target="_blank"></a>
     
-    <a https://www.instagram.com/_reveredy/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/_reveredy/"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">        </a>
   </div>
   
