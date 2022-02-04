@@ -18,5 +18,9 @@
   
   ##
   
-  <a href="https://www.linkedin.com/in/carlos-andre-albanus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-    " target="+blank"></a>
+  <div style="display: inline_block">
+    <a href="https://www.linkedin.com/in/carlos-andre-albanus"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="+blank"></a>
+  
+  <a href="https://www.instagram.com/_reveredy/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="+blank"></a>
+  </div>
+  
